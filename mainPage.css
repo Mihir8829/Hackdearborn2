@@ -42,7 +42,7 @@ div.text h1 {
 
 div.text h4 {
     text-align: left;
-    padding: 15px 60px; /* Increase left and right padding */
+    padding: 15px 60px;
     margin: 10px;
     color: #215777;
     font-family: 'Judson', serif;
@@ -51,9 +51,13 @@ div.text h4 {
 
 div.text p {
     text-align: left;
-    padding: 15px 60px; /* Increase left and right padding */
+    padding: 15px 60px;
     margin: 10px;
     color: #000;
     font-family: 'Judson', serif;
     font-size: 35px;
+}
+
+a{
+    text-decoration: none;
 }
