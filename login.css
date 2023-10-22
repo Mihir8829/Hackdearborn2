@@ -1,3 +1,7 @@
+body{
+  background: #4c88b8;
+}
+
 img {
   max-width: 100%;
   max-height: 100%; 
@@ -7,23 +11,24 @@ img {
 }
 
 .login {
-    height: 1000px;
-    width: 100%;
-    background: #4c88b8;
-    position: relative;
+  height: 100vh;
+  width: 100%;
+  background: #215777;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
 }
+
 .login_box {
-    width: 1050px;
-    height: 600px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    background: #fff;
-    border-radius: 10px;
-    box-shadow: 1px 4px 22px -8px #0004;
-    display: flex;
-    overflow: hidden;
+  width: 1050px;
+  height: 600px;
+  position: absolute;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 1px 4px 22px -8px #0004;
+  display: flex;
+  overflow: hidden;
 }
 .login_box .left{
   width: 41%;
@@ -36,7 +41,7 @@ img {
   height: 100%  
 }
 .left .top_link a {
-    color: #4c88b8;
+    color: #215777;
     font-weight: 400;
 }
 .left .top_link{
@@ -75,13 +80,13 @@ img {
     padding: 15px 70px;
     border-radius: 8px;
     display: block;
-    background: #4c88b8;
+    background: #215777;
     color: #fff;
     font-weight: bold;
 }
 
 .right {
-  background: linear-gradient(to bottom, #4c88b8, #4c88b8);
+  background: linear-gradient(to bottom, #215777, #215777);
 	color: #fff;
 	position: relative;
 }
@@ -124,7 +129,7 @@ img {
 .btn-get-started {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #4c88b8;
+  background-color: #215777;
   color: white;
   text-decoration: none;
   border: none;
