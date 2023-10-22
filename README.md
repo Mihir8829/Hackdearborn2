@@ -1,5 +1,4 @@
 # InvestEDU: Empowering Student Investing
-
 > A platform dedicated to promoting financial literacy and investment education among college students, starting at the University of Michigan - Dearborn.
 
 ## Table of Contents
@@ -23,7 +22,7 @@
 
 ### Mission
 
-At InvestEDU, our mission is to empower college students with the knowledge and resources they need to start investing in their financial future. We aim to break down the barriers that often prevent young people from taking control of their finances and encourage them to make informed investment decisions.
+At InvestEDU, our mission is to empower college students with the knowledge and resources they need to start investing in their financial future. We aim to break down the barriers that often prevent young people from taking control of their finances and encourage them to make informed investment decisions. To ensure students have the tools they need to make informed decisions, we provide access to starting funds, subscriber emails, and professional advice.
 
 ### Inspiration
 
