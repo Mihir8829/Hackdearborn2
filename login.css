@@ -4,7 +4,7 @@ img{
 .login {
     height: 1000px;
     width: 100%;
-    background: radial-gradient(blue, #4c88b8);
+    background: #4c88b8;
     position: relative;
 }
 .login_box {
@@ -78,7 +78,7 @@ img{
 }
 
 .right {
-    /* background: linear-gradient(212.38deg, rgba(242, 57, 127, 0.7) 0%, rgba(175, 70, 189, 0.71) 100%), url(images/invesLogo.png); */
+    background: linear-gradient(212.38deg, rgba(242, 57, 127, 0.7) 0%, rgba(175, 70, 189, 0.71) 100%), url(images/invesLogo.png);
 	color: #fff;
 	position: relative;
 }
@@ -118,5 +118,15 @@ img{
     margin-top: -3px;
 }
 
+.btn-get-started {
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #4c88b8;
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
 
 
