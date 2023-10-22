@@ -11,12 +11,12 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  background-color: #215777;
 }
 
 a {
   text-decoration: none;
-  color: #49b5e7;
+  color: #215777;
 }
 
 a:hover {
@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #49b5e7;
+  background: #215777;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #6dc4ec;
+  background: #215777;
   color: #fff;
 }
 
@@ -70,7 +70,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: #215777;
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
@@ -1463,13 +1463,13 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #49b5e7;
+  color: #215777;
 }
 
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #49b5e7;
+  background: #215777;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1482,7 +1482,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #1da2e0;
+  background: #215777;
   color: #fff;
   text-decoration: none;
 }
@@ -1495,7 +1495,7 @@ section {
 #footer .credits {
   float: right;
   font-size: 13px;
-  color: #0f394c;
+  color: #215777;
 }
 
 @media (max-width: 575px) {
