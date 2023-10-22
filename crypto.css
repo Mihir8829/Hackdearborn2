@@ -31,14 +31,14 @@ header {
   text-decoration: none;
 }
 
+ 
 div.text h1 {
-  text-align: left;
-  padding: 15px 60px;
+  text-align: center;
+  padding-top: 50px;
   color: #000;
-  font-family: "Judson", serif;
+  font-family: 'Judson', serif;
   font-size: 40px;
 }
-
 div.text h4 {
   text-align: left;
   padding: 15px 60px;
