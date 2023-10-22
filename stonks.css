@@ -61,3 +61,14 @@ body {
     text-decoration: none;
   }
   
+  .cool-border {
+    border: 10px solid #215777; 
+    padding: 10px; 
+    display: block; 
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
+.space{
+  padding: 20px 20px;
+}
