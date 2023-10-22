@@ -1,10 +1,15 @@
-img{
-	width: 100%;
+img {
+  max-width: 100%;  /* Set the maximum width to the container width */
+  max-height: 100%; /* Set the maximum height to the container height */
+  width: auto;      /* Ensure the width adjusts to the container size */
+  height: auto;     /* Ensure the height adjusts to the container size */
+  object-fit: contain; /* This property maintains the aspect ratio and fits the image within the container */
 }
+
 .login {
     height: 1000px;
     width: 100%;
-    background: radial-gradient(blue, #4c88b8);
+    background: #4c88b8;
     position: relative;
 }
 .login_box {
@@ -76,7 +81,7 @@ img{
 }
 
 .right {
-    /* background: linear-gradient(212.38deg, rgba(242, 57, 127, 0.7) 0%, rgba(175, 70, 189, 0.71) 100%), url(images/invesLogo.png); */
+  background: linear-gradient(to bottom, #4c88b8, #4c88b8);
 	color: #fff;
 	position: relative;
 }
@@ -116,5 +121,17 @@ img{
     margin-top: -3px;
 }
 
-
+.btn-get-started {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4c88b8;
+  color: white;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
