@@ -3,7 +3,7 @@ img {
   max-height: 100%; /* Set the maximum height to the container height */
   width: auto;      /* Ensure the width adjusts to the container size */
   height: auto;     /* Ensure the height adjusts to the container size */
-  object-fit: contain; /* This property maintains the aspect ratio and fits the image within the container */
+  object-fit:contain; /* This property maintains the aspect ratio and fits the image within the container */
 }
 
 .login {
